@@ -2,15 +2,15 @@
 A set of components for AS2 based animation effects. **Compatible with Ruffle!**
 
 ## Effects
-- Clip shake
-  - Shakes the target clip. 
-  - Can be set to `_root` to shake the whole screen.
-  - If you're using a vCam, use its variable name.
-    - Note: This has not been tested.
+Clip shake
+- Shakes the target clip. 
+- Can be set to `_root` to shake the whole screen.
+- If you're using a vCam, use its variable name.
+  - Note: This has not been tested.
   
-- Nested clip pause/play
-  - Pauses the target clip and all clips inside the target clip (e.g. to achieve a "stun" effect.)
-  - Can be set to `_root` to pause and play everything.
+Nested clip pause/play
+- Pauses the target clip and all clips inside the target clip (e.g. to achieve a "stun" effect.)
+- Can be set to `_root` to pause and play everything.
 
 ## Installation instructions:
 - Extract zip file into the Components folder (e.g. in `%localappdata%\Adobe\Flash CS6\en_US\Configuration\Components`)
