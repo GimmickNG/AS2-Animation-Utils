@@ -32,3 +32,5 @@ Nested clip pause/play:
 You may see a warning when selecting the AnimUtils component in the library, or when placing it on the Stage for the first time.
 This is due to a limitation of Flash which causes conflicts when using a singleton component; you can safely ignore this warning while editing the file.
 If you see the notice when previewing the animation, you may have multiple AnimUtils components on the Stage, or you may have keyframes on the AnimUtils layer.
+
+The most major limitation is that you **cannot use this in clean loops if you are targeting Ruffle (as of writing this).** What this means in practice is that you must have a menu screen, or your replay button must redirect to a frame where all the clips you want to pause/play are removed from the stage. See the [demo for more details.](https://www.newgrounds.com/projects/games/1662252/preview/filetype/0)
