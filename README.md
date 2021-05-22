@@ -13,6 +13,7 @@ Nested clip pause/play:
 - Can be set to `_root` to pause and play everything.
 
 ## Installation instructions:
+- Download the [latest release](https://github.com/GimmickNG/AS2-Animation-Utils/releases/latest)
 - Extract zip file into the Components folder (e.g. in `%localappdata%\Adobe\Flash CS6\en_US\Configuration\Components`)
 - Restart Flash
 - The components can be found under "Standard Components" (names listed on right-hand side):
