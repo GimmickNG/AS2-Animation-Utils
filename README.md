@@ -1,4 +1,4 @@
-# AS2-Animation-Utils
+# AS2 Animation Utils
 A set of components for AS2 based animation effects. **Compatible with Ruffle!**
 
 ## Effects
